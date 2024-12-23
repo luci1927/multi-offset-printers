@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/multi-offset-printers/static/css/main.32d37d53.css",
+    "main.js": "/multi-offset-printers/static/js/main.f58a10d4.js",
+    "static/js/453.151d1549.chunk.js": "/multi-offset-printers/static/js/453.151d1549.chunk.js",
+    "index.html": "/multi-offset-printers/index.html",
+    "main.32d37d53.css.map": "/multi-offset-printers/static/css/main.32d37d53.css.map",
+    "main.f58a10d4.js.map": "/multi-offset-printers/static/js/main.f58a10d4.js.map",
+    "453.151d1549.chunk.js.map": "/multi-offset-printers/static/js/453.151d1549.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32d37d53.css",
+    "static/js/main.f58a10d4.js"
+  ]
+}
