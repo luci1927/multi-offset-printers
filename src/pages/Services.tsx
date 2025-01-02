@@ -24,7 +24,6 @@ const Services = () => {
         'Custom Fabrication',
         'Assembly Services',
         'Quality Control',
-        'Prototype Development',
       ],
       icon: '⚙️',
     },
