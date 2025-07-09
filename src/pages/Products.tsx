@@ -7,7 +7,7 @@ const Products = () => {
       id: 1,
       name: 'Business Cards',
       description: 'Professional business cards with premium finishes',
-      image: 'https://images.unsplash.com/photo-1589041127168-9b1915731f71?q=80&w=500',
+      image: 'https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=500',
     },
     {
       id: 2,
